@@ -6,9 +6,6 @@
 <h4>2: Desenvolvimento de mods <a href="">Android</a></h4>
 <h4>4: Desenvolvimento para modificações de <a href="https://pt.wikipedia.org/wiki/Grand_Theft_Auto" title="Grand Theft Auto">GTA</a> sendo essas <a href="https://fivem.net/" title="FiveM">FIVEM</a>, <a href="https://www.sa-mp.com/" title="SA-MP">SA-MP</a> e <a href="https://wiki.multitheftauto.com/wiki/Main_Page" title="MTA">MTA</a>
 
-## Status:
-![Status](https://github-readme-stats.vercel.app/api?username=BorgesRichard&show_icons=true&theme=dracula)
-
 ## Links úteis:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/708711414461628526)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/borges.exe1@gmail.com)
