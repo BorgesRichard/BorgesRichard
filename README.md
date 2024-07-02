@@ -4,7 +4,7 @@
 ## Atividades extracurriculares:
 <h4>1: Laboratórios <a href="https://tryhackme.com/">Try Hack Me</a></h4>
 <h4>2: Desenvolvimento de mods <a href="">Android</a></h4>
-<h4>4: Desenvolvimento para modificações de <a href="https://pt.wikipedia.org/wiki/Grand_Theft_Auto" title="Grand Theft Auto">GTA</a> sendo essas <a href="https://fivem.net/" title="FiveM">FIVEM</a>, <a href="https://www.open.mp/" title="SA-MP">SA-MP</a> e <a href="https://wiki.multitheftauto.com/wiki/Main_Page" title="MTA">MTA</a>
+<h4>4: Desenvolvimento para modificações de <a href="https://pt.wikipedia.org/wiki/Grand_Theft_Auto" title="Grand Theft Auto">GTA</a> sendo essas <a href="https://fivem.net/" title="FiveM">FIVEM</a>, <a href="[Rage](https://wiki.rage.mp/)" title="FiveM">FIVEM</a>, <a href="https://www.open.mp/" title="SA-MP">SA-MP</a> e <a href="https://wiki.multitheftauto.com/wiki/Main_Page" title="MTA">MTA</a>
 
 ## Links úteis:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/708711414461628526)
