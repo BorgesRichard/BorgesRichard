@@ -1,5 +1,3 @@
-# precision / engineering / software
-
 I'm Richard Borges a dev who values clarity, intention and the quiet elegance of well-structured systems.  
 I write software the way some people draw lines: clean, measured, and only when necessary.  
 I believe in code that ages gracefully, interfaces that feel deliberate, and architectures that stay honest under pressure.
